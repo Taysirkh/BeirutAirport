@@ -1,1 +1,1 @@
-this is a project to show Beirut internation airport flights!
+this is a project to show Beirut international airport flights!
